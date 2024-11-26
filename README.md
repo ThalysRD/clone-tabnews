@@ -1,3 +1,1 @@
-# clone-tabnews
-
-Realizando um projeto para aprendizado
+Página do Diboa
